@@ -13,3 +13,13 @@
 ## Copy examples
 
 - [Great Landing Page Copy](https://greatlandingpagecopy.com/Once-web-software-that-you-buy-ONCE-and-run-yourself)
+
+
+## Design Inspo 
+
+- [httpster](https://httpster.net/)
+- [Land Book](https://land-book.com/)
+- [Webflow template directory](https://webflow.com/templates?ref=awesome-webflow)
+
+## Webflow Resources 
+- [Refokus]{https://www.webflow-tools.refokus.com/}
