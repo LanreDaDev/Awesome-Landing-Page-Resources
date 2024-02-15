@@ -23,6 +23,7 @@
 - [Flowbase](https://www.flowbase.co/?ref=awesome-webflow)
 - [Lighting Labs](https://www.lightninglab.design/?ref=awesome-webflow)
 - [Elastic Theme](https://www.elasticthemes.com/?ref=awesome-webflow)
+- [Wizardry](https://wizardry-technique.webflow.io/)
 
 ## Icons
 - [Animated Icons](https://animatedicons.co/)
