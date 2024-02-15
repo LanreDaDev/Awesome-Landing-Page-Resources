@@ -22,4 +22,4 @@
 - [Webflow template directory](https://webflow.com/templates?ref=awesome-webflow)
 
 ## Webflow Resources 
-- [Refokus]{https://www.webflow-tools.refokus.com/}
+- [Refokus](https://www.webflow-tools.refokus.com/)
