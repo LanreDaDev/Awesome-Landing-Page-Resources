@@ -35,3 +35,6 @@
 - [Anime](https://animejs.com/)
 - [Framer Motion](https://www.framer.com/motion/)
 - [Lottie](https://lottiefiles.com/)
+
+## Github References
+- [awesome-webflow](https://github.com/aleksandarbasara/awesome-webflow?tab=readme-ov-file#templates)
