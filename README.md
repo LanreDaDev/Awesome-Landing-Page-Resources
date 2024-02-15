@@ -23,3 +23,18 @@
 
 ## Webflow Resources 
 - [Refokus](https://www.webflow-tools.refokus.com/)
+- [Flowbase](https://www.flowbase.co/?ref=awesome-webflow)
+- [Lighting Labs](https://www.lightninglab.design/?ref=awesome-webflow)
+- [Elastic Theme](https://www.elasticthemes.com/?ref=awesome-webflow)
+
+## Icons
+- [Animated Icons](https://animatedicons.co/)
+
+## Illustrations
+- [Illustration Kit](https://illustrationkit.com/)
+
+## Animation Libraries
+- [GSAP](https://gsap.com/)
+- [Anime](https://animejs.com/)
+- [Framer Motion](https://www.framer.com/motion/)
+- [Lottie](https://lottiefiles.com/)
